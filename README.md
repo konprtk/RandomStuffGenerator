@@ -46,8 +46,18 @@ To run this project locally, follow these steps:
 - Quotes sourced from [Goodreads](https://www.goodreads.com/quotes/tag/programming).
 - Riddles sourced from [Reader's Digest](https://www.rd.com/list/challenging-riddles/).
 
+## Contributing
+
+Contributions are welcome! If you find any bugs or want to improve the project, feel free to create a pull request.
+
 ## Author
 
 - [Pratik Lokhande](https://github.com/konprtk)
 
-Thank you to the sources mentioned above for providing the content for this project.
+## Contact
+
+For any questions or suggestions, feel free to reach out to me:
+- Email: [Pratik Lokhande](official.pratik.2003@gmail.com)
+- GitHub: [konprtk](https://github.com/konprtk)
+- LinkedIn: [Pratik Lokhande](https://linkedin.com/in/pratiklokhande14)
+- CodePen: [konprtk](https://codepen.io/konprtk)
