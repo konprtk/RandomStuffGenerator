@@ -54,9 +54,6 @@ To check or view web page click below link:
 
 Contributions are welcome! If you find any bugs or want to improve the project, feel free to create a pull request.
 
-## Author
-
-- [Pratik Lokhande](https://github.com/konprtk)
 
 ## Contact
 
