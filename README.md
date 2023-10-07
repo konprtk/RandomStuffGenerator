@@ -28,6 +28,10 @@ To run this project locally, follow these steps:
 
 3. Open `index.html` in your web browser to launch the application.
 
+## OR
+To check or view web page click below link:
+  - [Pricing Card](https://konprtk.github.io/RandomStuffGenerator/)
+
 ## Usage
 
 - Click the buttons in the "Actions" section to see different types of content.
