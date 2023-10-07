@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 
 ## OR
 To check or view web page click below link:
-  - [Pricing Card](https://konprtk.github.io/RandomStuffGenerator/)
+  - [Random Stuff Generator](https://konprtk.github.io/RandomStuffGenerator/)
 
 ## Usage
 
